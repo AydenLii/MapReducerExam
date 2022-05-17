@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
+        <module name="HadoopExam" />
+=======
+>>>>>>> 1fecd79168fe6abeb43f38c76af3aed2b2b4e473
+        <module name="01" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
